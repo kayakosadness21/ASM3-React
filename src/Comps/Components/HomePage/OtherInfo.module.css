@@ -1,0 +1,15 @@
+.other-info h4 {
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.other-info .input input {
+  height: 3rem;
+  width: 25rem;
+  border: 1px solid #868e96;
+}
+
+.other-info .input a {
+  padding: 0.8rem;
+  font-style: normal;
+}

@@ -1,0 +1,21 @@
+.cart-total {
+  font-size: 0.8rem;
+}
+
+.cart-total input {
+  border: 1px solid #999;
+}
+
+.cart-total input:focus {
+  outline: none;
+}
+
+.cart-total button {
+  border: none;
+  background-color: #343a40;
+  color: #fff;
+}
+
+.cart-total button:hover {
+  background-color: #495057;
+}

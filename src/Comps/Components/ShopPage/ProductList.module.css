@@ -1,0 +1,42 @@
+.product {
+  text-decoration: none;
+  color: #000;
+}
+
+.product img {
+  max-width: 14rem;
+}
+
+.product:hover {
+  cursor: pointer;
+  color: #000;
+  opacity: 0.6;
+}
+
+.product .title {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.product .price {
+  color: #868e96;
+}
+.page-load {
+  text-align: end;
+}
+
+.page-load span {
+  padding: 0.35rem 0.7rem;
+  margin: 0.2rem;
+}
+
+.page-load button {
+  padding: 0.2rem;
+  border: 1px solid #eee;
+  background-color: #fff;
+}
+
+.products {
+  padding: 3rem;
+  position: relative;
+}

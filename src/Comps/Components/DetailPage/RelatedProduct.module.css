@@ -1,0 +1,19 @@
+.product {
+  max-width: 14rem;
+  margin: 0.5rem;
+  text-decoration: none;
+}
+
+.product:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.related .title {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.related .price {
+  color: #868e96;
+}

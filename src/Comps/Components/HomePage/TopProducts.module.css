@@ -1,0 +1,9 @@
+.top-product h4 {
+  text-transform: uppercase;
+}
+
+.top-product > div > p {
+  text-transform: uppercase;
+  color: #868e96;
+  margin-bottom: 0;
+}

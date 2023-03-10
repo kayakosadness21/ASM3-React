@@ -1,0 +1,29 @@
+.header {
+  height: 10rem;
+  text-transform: uppercase;
+}
+
+.subnav h4 {
+  text-transform: uppercase;
+}
+
+.subnav li {
+  list-style: none;
+  padding: 0.5rem 1rem;
+}
+
+.subnav li:not(.titleCategory) {
+  cursor: pointer;
+}
+.subnav li:not(.titleCategory):hover {
+  color: #ffec99;
+}
+
+.titleCategory {
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.active {
+  color: #ffd43b;
+}

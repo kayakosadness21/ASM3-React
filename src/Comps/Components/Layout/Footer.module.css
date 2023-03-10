@@ -1,0 +1,27 @@
+.footer {
+  color: #fff;
+  background-color: #000;
+  font-size: smaller;
+  padding: 2rem 0;
+  position: sticky;
+  top: 100%;
+}
+
+.footer h5 {
+  font-size: medium;
+  text-transform: uppercase;
+}
+
+.footer li {
+  list-style: none;
+  margin-left: -2rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #999;
+}
+
+.footer a:hover {
+  color: #ccc;
+}

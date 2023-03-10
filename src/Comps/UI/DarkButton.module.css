@@ -1,0 +1,11 @@
+.btn-dark {
+  background-color: #343a40;
+  color: #fff;
+  padding: 0.4rem 1.2rem;
+  text-decoration: none;
+}
+
+.btn-dark:hover {
+  color: #fff;
+  background-color: #495057;
+}

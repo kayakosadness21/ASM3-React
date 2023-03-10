@@ -1,0 +1,35 @@
+.login {
+  background-image: url(/public/Resource/banner1.jpg);
+  background-size: contain;
+  height: 80vh;
+}
+
+.login > div {
+  min-width: 20rem;
+  width: 25%;
+}
+
+.login a {
+  text-decoration: none;
+}
+
+.form {
+  margin-top: 5rem;
+}
+
+.form input {
+  padding: 1.2rem;
+  border: 1px solid #eee;
+}
+
+.form input:focus {
+  outline: none;
+}
+
+.form button {
+  background-color: #343a40;
+}
+
+.form button:hover {
+  background-color: #495057;
+}

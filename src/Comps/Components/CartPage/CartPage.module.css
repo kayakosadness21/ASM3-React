@@ -1,0 +1,9 @@
+.header {
+  height: 10rem;
+  text-transform: uppercase;
+}
+
+.cart-page svg {
+  width: 1rem;
+  margin: 0 0.5rem;
+}

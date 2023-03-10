@@ -1,0 +1,40 @@
+.navbar a {
+  text-decoration: none;
+  margin: 0.3rem 1rem 0 0.5rem;
+  color: black;
+  display: inline-block;
+}
+
+.navbar {
+  text-align: center;
+}
+.navbar h4 {
+  text-transform: uppercase;
+}
+.navbar a.active {
+  color: #ffd43b;
+}
+
+.navbar svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  fill: #727272;
+  margin-top: 0.5rem;
+}
+
+.navbar span {
+  margin: 0.3rem 0 0 0.5rem;
+}
+
+.navbar .caret {
+  fill: #000;
+  padding-bottom: 0.5rem;
+}
+
+.navbar .btn-out {
+  cursor: pointer;
+}
+
+.navbar .btn-out:hover {
+  color: #999;
+}

@@ -1,0 +1,22 @@
+.banner {
+  position: relative;
+  display: block;
+  height: 25rem;
+}
+.banner img {
+  position: absolute;
+  width: 100%;
+  min-height: 22rem;
+}
+.banner > div {
+  max-width: 30%;
+  margin: 10% 5%;
+  position: absolute;
+}
+
+.banner p {
+  margin-bottom: 0;
+  color: #868e96;
+  font-size: 0.9rem;
+  letter-spacing: 0.15rem;
+}

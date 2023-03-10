@@ -1,0 +1,48 @@
+.detail {
+  align-items: flex-start;
+}
+
+.form {
+  font-weight: lighter;
+}
+
+.form input {
+  border: 1px solid #999;
+  padding: 0.5rem 1rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.form input:focus {
+  outline: none;
+}
+
+.order li {
+  display: flex;
+  justify-content: space-between;
+  font-size: small;
+}
+
+.order li > p {
+  margin-bottom: 0;
+}
+
+.order li > p:first-child {
+  font-weight: 500;
+  max-width: 60%;
+  letter-spacing: -1px;
+}
+
+.order li > p:last-child {
+  color: #999;
+  letter-spacing: -0.6px;
+}
+.mailok {
+  border-color: aquamarine;
+}
+.mailnotok {
+  border-color: red;
+}
+.error {
+  color: red;
+}

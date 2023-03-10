@@ -1,0 +1,39 @@
+.product-detail > div > img {
+  max-width: 20rem;
+}
+
+.type img {
+  max-width: 5rem;
+}
+
+.product-detail > div > div p {
+  color: #666;
+}
+
+.quality {
+  display: flex;
+}
+
+.quality > span {
+  align-items: center;
+  display: inline-block;
+  border: 1px solid #eee;
+}
+
+.quality svg:hover {
+  cursor: pointer;
+}
+
+.quality input {
+  border: none;
+  font-style: italic;
+}
+
+.quality input:focus {
+  outline: none;
+}
+
+.quality svg {
+  width: 1rem;
+  margin: 0 0.5rem;
+}

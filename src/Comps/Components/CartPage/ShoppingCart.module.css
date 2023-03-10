@@ -1,0 +1,16 @@
+.shopping-cart img {
+  max-width: 3rem;
+}
+
+.shopping-cart svg {
+  width: 1rem;
+  margin: 0 0.2rem;
+}
+
+.shopping-cart svg:hover {
+  cursor: pointer;
+}
+
+.list-item {
+  letter-spacing: -1px;
+}

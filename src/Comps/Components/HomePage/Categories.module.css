@@ -1,0 +1,16 @@
+.categories {
+  text-transform: uppercase;
+}
+.categories p {
+  color: #868e96;
+  margin-bottom: 0;
+}
+
+.categories img {
+  max-height: 16rem;
+  border-radius: 0.5rem;
+}
+
+.categories img:hover {
+  opacity: 0.7;
+}

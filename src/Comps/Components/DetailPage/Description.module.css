@@ -1,0 +1,20 @@
+.desc h6 {
+  text-transform: uppercase;
+}
+
+.desc h6:first-child {
+  display: inline-block;
+  font-weight: lighter;
+  color: #fff;
+  background-color: #343a40;
+  padding: 0.5rem 1rem;
+}
+
+.desc h6:nth-child(2) {
+  margin-bottom: 1rem;
+}
+
+.long-desc {
+  margin-bottom: 0;
+  color: #666;
+}
